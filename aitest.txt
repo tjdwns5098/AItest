@@ -1,2 +1,1 @@
-aaaaaa
-bbbbb
+전공별 AI 활용 테스트
